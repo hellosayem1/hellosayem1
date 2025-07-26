@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="./assets/gifbanner.gif" alt="banner" />
+    <img src="./assets/hayimsayem.gif" alt="banner" />
   </a>
 </div>
 <br><br>
